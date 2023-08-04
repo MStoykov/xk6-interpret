@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/traefik/yaegi v0.9.7
-	go.k6.io/k6 v0.32.0
+	go.k6.io/k6 v0.45.1
 )
